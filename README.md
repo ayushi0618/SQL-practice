@@ -1,6 +1,6 @@
 # SQL Practice 📊
 
-This repository contains my solutions to various SQL coding problems, primarily sourced from platforms like LeetCode. The solutions are automatically synced and tracked here using **LeetSync**.
+This repository contains my solutions to various SQL coding problems, primarily sourced from platforms like LeetCode. The solutions are automatically synced and tracked here using *LeetSync*.
 
 ## 📂 Problem Directory
 
